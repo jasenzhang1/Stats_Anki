@@ -26,6 +26,6 @@ Are there cards you want to see? Contribute here: https://forms.gle/XFgSXDVKCXg5
 
 ## 4. Who are we?
 
-We are biostatistics students at [UCLA](https://ph.ucla.edu/departments/biostatistics) who want to promote statistical education. 
+We are [biostatistics students at UCLA](https://ph.ucla.edu/departments/biostatistics) who want to promote statistical education. 
 
 We believe statistics is a deeply intuitive subject that just needs to be taught in an articulate and digestible manner. 
